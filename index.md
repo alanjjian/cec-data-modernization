@@ -1,35 +1,34 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# CEC Technical Guides
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Welcome to the California Energy Commission's repository of technical guides.
 
-More specifically, the created site:
+## Mission
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+As part of the data modernization task force's larger mission, the reading guides hosted on this website are meant to bring folks up to speed on important technologies that will be central to the CEC's future tech stack.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+These guides are meant to be **living**, **breathing**, technical documents to be **constantly iterated upon** to fit the ever-changing landscape of data science. By creating a highly adaptable centralized framework for sharing knowledge within the organization, we can shrink technical debt by learning from one another.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## What about DataCamp?
 
-To get started with creating a site, simply:
+While DataCamp is a great starting point for folks lacking a technical background in data science, it primarily focuses on teaching syntax and high-level concepts, through short, guided exercises. While DataCamp allows students to become fluent in functions and APIs it falls short of developing the deeper mental models that make knowledge transferable. As a result, learners may gain familiarity with tools without yet building the software engineering habits and systems thinking needed to design robust, maintainable solutions.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+**This resource is not meant to replace DataCamp**; instead, it is designed to help support readers as they move from DataCamp on their journey toward more resilient, industry-ready practice.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Reading Guide How-Tos:
 
-----
+The reading guides on this website function as structured walkthroughs of written case studies, guides, and important literature that might be helpful to your understanding of the topic at hand. Here’s how you get through each page: 
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+1. Work sequentially through each reading guide. When you encounter a link, it will take you to the relevant reading, **but don’t open it just yet!**
+2. Skim the text past the link, as we provide helpful context and notes about what to pay attention to, what to skip, and what might be confusing. Follow the directions and reading notes provided in each section to guide your thinking and attention. 
+3. **Once directed** (i.e Take a look at…, Go and skim…, etc.)**, open the link and read through the source.** 
+4. Once finished, return to where you left off; we’ll talk about the takeaways that you should remember from each document. 
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+We recommend you read the sources in the order that they’re presented (a.k.a, don’t skip around!). But if you’re a domain expert, or if this isn’t your first rodeo, you can use the guide how you see fit. And as always, these reading guides are living documents. If you would like to suggest additional resources, feel free to reach out to the author directly! 
+
+Happy Learning! 
