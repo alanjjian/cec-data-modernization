@@ -95,8 +95,8 @@ Within your unit, evaluate your style guide (if there is one). Does it contain e
 In case your team doesn’t have a style guide, here are a few tips to get your team up and running:
 
 1. **Start with a template.** Using some of the resources listed in this reading source as a jumping off point is a quick way to get started.
-  a. The Google guide gives some practical steps to start organizing documentation
-  b. Many principles in the Agile documentation resource can be official adopted into your team’s practice.
-  c. Using the Cookiecutter directory structure with simplifying modifications can aid with data analysis and forecasting work
+    1. The Google guide gives some practical steps to start organizing documentation
+    2. Many principles in the Agile documentation resource can be official adopted into your team’s practice.
+    3. Using the Cookiecutter directory structure with simplifying modifications can aid with data analysis and forecasting work
 2. **Establish a culture of maintainability.** In addition to standards, make sure documentation processes are built into the project pipeline. Explicitly define how and when documentation should be iterated upon.
 3. **Focus on brevity.** Documentation is composed of living, breathing outputs that are meant to be iterated over time. If you write something, it will eventually need to be updated.
