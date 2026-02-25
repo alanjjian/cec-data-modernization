@@ -29,11 +29,11 @@ Now, let’s move to [chapter 2 of the *Pro Git* book](https://git-scm.com/book/
 
 A few additional tips before you get started: 
 
-- **Ask for help.** If googling, using AI, or mashing your head against the problem doesn’t get you unstuck, ask your co-workers for help! 
-- **Don’t get bogged down by the details.** I’ll point out what you need to focus on and understand. The rest is optional! 
-- **Follow along on your own computer.** Students often fall into the rabbit hole of skimming the code. I cannot stress this enough: try the code examples on your computer. Using Git (and the Terminal) is like a muscle; it needs training, and these examples teach you how to get strong! 
+- **Ask for help.** If googling, using AI, or mashing your head against the problem doesn’t get you unstuck, ask your co-workers for help, or create a dedicated GitHub learning channel with your unit!
+- **Don’t get bogged down by the details.** I’ll point out what you need to focus on and understand. The rest is optional!
+- **Follow along on your own computer.** Students often fall into the rabbit hole of skimming the code. I cannot stress this enough: try the code examples on your computer. Using Git (and the Terminal) is like a muscle; it needs training, and these examples teach you how to get strong!
 
-Ok ready? Now, go ahead and read Section 2.1 in its entirety, and follow these steps: 
+Ok ready? Now, go ahead and read Section 2.1 in its entirety, and follow these steps:
 
 - While you read this section, set up your first repository. You’ll need it for later chapters! 
 - When you read the Cloning an Existing Repo section, you can try this with an existing repo that you have access to, but you don’t necessarily have to worry about it.
